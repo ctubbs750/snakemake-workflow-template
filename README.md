@@ -1,1 +1,1 @@
-# SnakeTemplate
+# SM-Template
