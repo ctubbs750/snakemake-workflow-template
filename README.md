@@ -1,1 +1,1 @@
-# SM-Template
+# snakemake-workflow-template
