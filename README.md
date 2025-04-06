@@ -9,7 +9,9 @@ To use this template you can select `Use this template` from the repo home page.
 ```
 $ git clone [repo web url]
 
-$ cd snakemake-workflow-template/
+$ mv snakemake-workflow-template/ [workflow-name]
+
+$ cd [workflow-name]
 
 $ find . -type f -name "*.gitignore" -exec rm -f {} +
 ```
